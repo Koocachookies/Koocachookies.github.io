@@ -803,8 +803,8 @@ input[type="button"] {
     cursor: pointer;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background-color: #c5c5c5;
-    border: .2rem solid #c5c5c5;
+    background-color: #908484;
+    border: .2rem solid #908484;
 }
 
 .btn:hover,
@@ -817,8 +817,8 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-    background-color: #b8b8b8;
-    border-color: #b8b8b8;
+    background-color: #908484;
+    border-color: #908484;
     color: #000000;
     outline: 0;
 }
@@ -834,7 +834,7 @@ input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
     background: #611111;
     border-color: #611111;
-    color: #FFFFFF;
+    color: #908484;
 }
 
 .btn.btn--primary:hover,
@@ -1123,7 +1123,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .skill-bars li {
     height: .6rem;
-    background: #c9c9c9;
+    background: #828282;
     width: 100%;
     margin-bottom: 6.9rem;
     padding: 0;
@@ -1154,7 +1154,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     top: -3.6rem;
     display: block;
     font-family: "montserrat-regular", sans-serif;
-    color: #FFFFFF;
+    color: #828282;
     font-size: 1.1rem;
     line-height: 1;
     background: #000000;
@@ -2370,7 +2370,7 @@ html.no-csstransitions .home-content__main {
 .s-services {
     padding-top: 16.2rem;
     padding-bottom: 13.2rem;
-    background-color: #FFFFFF;
+    background-color: #cbcbcb;
     color: #757575;
     position: relative;
 }
@@ -2492,7 +2492,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    background: #FFFFFF;
+    background: #828282;
     padding: 0 0 15rem 0;
     min-height: 800px;
     position: relative;
